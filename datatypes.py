@@ -1,7 +1,15 @@
 from datetime import date
 
-
+'''
+variable name is case sensitive 
+a varaible name can only start with alphabet or underscore
+it also applies to other identifier i.e: class,function
+'''
 name  = "Syed Anwar Ahmed Shah is learning new skill\"'s"
+Name = "new"
+
+print(name)
+print(Name)
 
 name_with_out_escapes = '''python is "awesome"  and 'easy to learn' language '''
 
