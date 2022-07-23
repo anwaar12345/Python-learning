@@ -17,3 +17,4 @@ print("older") if age > 0 and age == 27 else print("younger") #ternary
 print(age > 30)
 print("age: ",age)
 print(age > 2 or age ==0)
+print(type(1/1))
