@@ -5,7 +5,7 @@ if(option == 1):
     print("the current dir "+ os.getcwd())
 
 elif(option == 2):
-    print(os.listdir()[1]) #returns array of directories
+    print(os.listdir()) #returns array of directories
 
 else: 
     print('wrong')
