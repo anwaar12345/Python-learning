@@ -9,7 +9,7 @@ print(numbers)
 numbers.reverse()
 print(numbers)
 numbers.append(122)
-print(numbers)
+print('append',numbers)
 numbers.insert(2,111) #inserts at given index
 print(numbers)
 numbers_copy = numbers.copy( );
